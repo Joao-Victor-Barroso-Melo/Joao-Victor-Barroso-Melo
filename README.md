@@ -1,9 +1,9 @@
 ### Olá, Eu sou o João Victor
 
-Estou cursando o 2ª Semestre de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.
+Estou cursando o 3ª Semestre de Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School.
 
-- 🎓 Habilidades (HTML, CSS, JS)
-- 🌱 Estudando (REACT JS, GIT, MYSQL, NODE JS)
+- 🎓 Habilidades (HTML, CSS, JS, MYSQL, REACT JS, JAVA)
+- 🌱 Estudando (SPRING BOOT, AWS SERVICE)
 - 🔥 Buscando Desafios
 
 
